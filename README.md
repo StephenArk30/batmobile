@@ -1,6 +1,6 @@
 ---
 author: Stephen Ark
-date: 2018-06-07 20:00:00
+date: 2018-06-07
 ---
 # Bat car model
 
@@ -22,6 +22,6 @@ This is a maya project modeling Batmobile. **Because I'm Batman!**
 ![](efect/back.png)
 ![](efect/render.png)
 
-## Using
+## Usage
 
 Open *batmobile.mb*.
